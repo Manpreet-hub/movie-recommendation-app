@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #1f2937;
+}
+.title {
+  font-size: 3.5rem;
+}
+.btn {
+  padding: 0.8rem;
+  margin: 0.2rem;
+  border-radius: 1rem;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+.movie-desc {
+  width: 70%;
+  margin: auto;
+}
+.movie-rating {
+  padding-bottom: 0.8rem;
+  margin-bottom: 1rem;
+}
+.list-items {
+  background-color: #9ca3af;
+  width: 70%;
+  margin: 1rem auto;
+  border-radius: 1rem;
+}
+.footer-title {
+  margin-top: 3.5rem;
+}
+.footer-link {
+  padding: 1rem;
+}
+.foter-img {
+  width: 3%;
+  height: 3.5%;
+}
